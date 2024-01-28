@@ -1,0 +1,7 @@
+{
+  "name": "NICODEMOS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
