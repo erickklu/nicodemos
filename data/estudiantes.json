@@ -1,0 +1,39 @@
+{
+    "estudiantes": [
+        {
+            "es_codi": 1,
+            "es_cedu": 123456789,
+            "es_nomb": "Juan",
+            "es_apel": "Perez",
+            "es_correo": "juan.perez@example.com"
+        },
+        {
+            "es_codi": 2,
+            "es_cedu": 987654321,
+            "es_nomb": "Maria",
+            "es_apel": "Gomez",
+            "es_correo": "maria.gomez@example.com"
+        },
+        {
+            "es_codi": 3,
+            "es_cedu": 456789123,
+            "es_nomb": "Pedro",
+            "es_apel": "Rodriguez",
+            "es_correo": "pedro.rodriguez@example.com"
+        },
+        {
+            "es_codi": 4,
+            "es_cedu": 789123456,
+            "es_nomb": "Ana",
+            "es_apel": "Lopez",
+            "es_correo": "ana.lopez@example.com"
+        },
+        {
+            "es_codi": 5,
+            "es_cedu": 321654987,
+            "es_nomb": "Carlos",
+            "es_apel": "Martinez",
+            "es_correo": "carlos.martinez@example.com"
+        }
+    ]
+}

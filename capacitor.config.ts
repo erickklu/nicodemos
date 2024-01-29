@@ -5,7 +5,7 @@ const config: CapacitorConfig = {
   appName: 'NICODEMOS',
   webDir: 'dist',
   server: {
-    androidScheme: 'https'
+    androidScheme: 'http' 
   }
 };
 
